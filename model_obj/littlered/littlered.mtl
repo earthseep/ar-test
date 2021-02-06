@@ -9,7 +9,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd ../littlered/me.jpg
+map_Kd me.jpg
 Ni 1.00
 newmtl lambert4SG
 illum 4
@@ -59,7 +59,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd ../littlered/hair3.png
+map_Kd hair3.png
 Ni 1.00
 Ks 0.10 0.10 0.10
 newmtl pasted__lambert3SG
