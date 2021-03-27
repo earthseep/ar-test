@@ -1,18 +1,18 @@
 newmtl Eye_MT2SG
 illum 4
-Kd 0.11 0.45 0.67
+Kd 0.19 0.09 0.07
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 newmtl Hair_MT2SG
 illum 4
-Kd 0.58 0.27 0.16
+Kd 0.81 0.37 0.22
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 newmtl Shirt_MT2SG
 illum 4
-Kd 0.31 0.67 0.64
+Kd 0.47 0.99 0.95
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
@@ -30,7 +30,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 newmtl Skirt_MT2SG
 illum 4
-Kd 0.03 0.04 0.10
+Kd 0.09 0.12 0.25
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
